@@ -1,5 +1,5 @@
 # nginx-demo
-多个单页应用使用路径部署，nginx 配置遇到的问题
+多项目使用子目录部署，nginx 配置遇到的问题
 
 # 构建镜像启动容器
 λ docker compose up
